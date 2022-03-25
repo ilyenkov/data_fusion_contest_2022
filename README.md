@@ -1,6 +1,12 @@
-# Data Fusion Contest 2022
+# [Data Fusion Contest 2022](https://ods.ai/tracks/data-fusion-2022-competitions)
 
-https://ods.ai/tracks/data-fusion-2022-competitions
+
+* Результаты на валидации по 2930 клиентам банка и 2463 клиентам РТК
+
+| Task | R1 | MRR@100 | Precision@100 |
+| :---: | :---: | :---: | :---: |
+| 1 | 0.224875 | 0.171651 | 0.325939 |
+| 2 | 0.036856 | 0.020306 | 0.199269 |
 
 * Результаты на публичном лидерборде 
 
