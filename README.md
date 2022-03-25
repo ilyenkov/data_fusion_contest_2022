@@ -1,5 +1,7 @@
 # Data Fusion Contest 2022
 
+https://ods.ai/tracks/data-fusion-2022-competitions
+
 * Результаты на публичном лидерборде 
 
 | Task | R1 | MRR@100 | Precision@100 |
