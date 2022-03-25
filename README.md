@@ -12,3 +12,5 @@ https://ods.ai/tracks/data-fusion-2022-competitions
 Решение для отправки в первую задачу - папка [catboost_baseline_subm](catboost_baseline_subm)
 
 Решение для отправки во вторую задачу - файл [sub_puzzle_baseline.csv](sub_puzzle_baseline.csv)
+
+На машине 8 CPU, 32Gb RAM модель обучается 3 минуты, инференс в первой задаче - 8 минут, во второй задаче - 28 минут. Подготовка данных - 8 минут.
